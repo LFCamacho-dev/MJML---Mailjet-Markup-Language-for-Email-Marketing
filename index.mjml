@@ -1,5 +1,10 @@
 <mjml>
   <mj-head>
+  <mj-raw>
+    <meta name="color-scheme" content="light"></meta>    
+    <!-- <meta name="color-scheme" content="light dark"></meta>  ## light and dark if both available   -->
+    <meta name="supported-color-schemes" content="light"></meta>    
+  </mj-raw>
     <mj-title>Creatos Studio Email</mj-title>
     <mj-attributes>
 
