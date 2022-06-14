@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-title>Creatos Studio Email</mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f2f3f4">
+    <mj-section>
+      <mj-column>
+        <mj-image width="500px" src="https://ucarecdn.com/39d41257-98f1-43ce-b6c9-0b978cbe6e89/logo550x60.jpg"></mj-image>
+        <mj-divider border-color="lightblue"></mj-divider>
+        <mj-text font-size="16px">
+            <strong>Creātos</strong> is an interdisciplinary digital studio. Creātos is basically me, a solo developer/designer with many years of experience in pretty much every step of the design process when it comes to creating digital footprints. Creātos is also an Indie Game Studio with plans of releasing games regularly on all platforms and becoming a game publisher!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#F45E43">
+        <mj-text font-size="32px" color="lightblue" align="center">MJML</mj-text>
+      </mj-column>
+      <mj-column background-color="lightblue">
+        <mj-text font-size="32px" color="#F45E43" align="center">ROCKS</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+        
+        <mj-divider border-color="#F45E43" border-width="5px"></mj-divider>
+        <mj-text font-size="16px">
+            <strong>About me</strong> ~ I'm an artist turned designer, turned developer. Professional (obsessive?) learner. Always looking for ways to improve what I already know, and looking for ways to apply it. Currently, that obsession looks like Game Development and Data Science.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
